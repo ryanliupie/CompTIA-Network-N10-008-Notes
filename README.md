@@ -16,5 +16,6 @@
 <p> It's important that you do not just write everything down. Understand what you are writing and put it in your own words that you can understand. It sounds typical but it's the foundation in retaining information. For example, if you do not understand a certain top, check other resources that can explain the topic in a different way. 
 </p>
 
-## My Practice Test Scores 
+## Main Notes 
+- <h3> <a href="MardownV3/Section1.md"> Section 1 </a> </h3>
 
