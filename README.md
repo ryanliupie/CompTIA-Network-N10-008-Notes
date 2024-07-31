@@ -17,9 +17,9 @@
 </p>
 
 ## Main Notes 
-- <h3> <a href="MarkdownV3/Section1.md"> Section 1 </a> </h3>
-- <h3> <a href="MarkdownV3/Section2.md"> Section 1 </a> </h3>
-- <h3> <a href="MarkdownV3/Section3.md"> Section 1 </a> </h3>
-- <h3> <a href="MarkdownV3/Section4.md"> Section 1 </a> </h3>
-- <h3> <a href="MarkdownV3/Section5.md"> Section 1 </a> </h3>
+- <h3> <a href="MarkdownV3/Section1.md"> Section 1: Network Fundamentals </a> </h3>
+- <h3> <a href="MarkdownV3/Section2.md"> Section 2: Network  Implementations </a> </h3>
+- <h3> <a href="MarkdownV3/Section3.md"> Section 3: Network Operations </a> </h3>
+- <h3> <a href="MarkdownV3/Section4.md"> Section 4: Network Security </a> </h3>
+- <h3> <a href="MarkdownV3/Section5.md"> Section 5: Network Troubleshooting </a> </h3>
 
