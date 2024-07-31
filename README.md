@@ -1,4 +1,4 @@
-# Network N10-008 Exam Notes
+# Network N10-008 Exam Notes 📖 ✔️ 
 <hr>
 
 ## Welcome
