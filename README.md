@@ -13,7 +13,11 @@
 <hr> 
 
 ## How To Study? 🎧☕
-<p> It's important that you do not just write everything down. Understand what you are writing and put it in your own words that you can understand. It sounds typical but it's the foundation in retaining information. For example, if you do not understand a certain top, check other resources that can explain the topic in a different way. 
+<p> It's important that you do not just write everything down. Understand what you are writing and put it in your own words that you can understand. It sounds typical but it's the foundation in retaining information. For example, if you do not understand a certain top, check other resources that can explain the topic in a different way. After understanding the topic, apply it in the real world. 
+  
+For example, if you are trying to understand what Coaxial cables or Ethernet cables look like; go to your main source of "networking gear" and take a look. 
+
+If you do not have that, try to relate it to something in real life. For instance, I think of Bandwidth like a bowl. The bigger the bowl, the more data can be sent through. Throughput is the actual amount of data being sent and the milk (data) may not fill it up because of the cereal (network congestion). 
 </p>
 
 ## Main Notes 
