@@ -17,5 +17,5 @@
 </p>
 
 ## Main Notes 
-- <h3> <a href="MardownV3/Section1.md"> Section 1 </a> </h3>
+- <h3> <a href="MarkdownV3/Section1.md"> Section 1 </a> </h3>
 
