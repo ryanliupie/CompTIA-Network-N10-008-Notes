@@ -31,7 +31,7 @@ If you do not have that, try to relate it to something in real life. For instanc
 
 ## Exam Compass Mark Tracker 
 
-- <h3> <a href ="MarkdownV3/ExamCompassMarks.md"> Tests </a> </h3>
+- <h3> <a href ="MarkdownV3/ExamCompassMarks.md"> Quizzes </a> </h3>
 
 
 
