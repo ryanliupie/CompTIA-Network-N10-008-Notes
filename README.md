@@ -13,7 +13,7 @@
 <hr> 
 
 ## How To Study? 🎧☕
-<p> It's important that you do not just write everything down. Understand what you are writing and put it in your own words that you can understand. It sounds typical but it's the foundation in retaining information. For example, if you do not understand a certain top, check other resources that can explain the topic in a different way. After understanding the topic, apply it in the real world. 
+<p> It's important that you do not just write everything down. Understand what you are writing and put it in your own words that you can understand. It sounds typical but it's the foundation for retaining information. For example, if you do not understand a certain top, check other resources that can explain the topic in a different way. After understanding the topic, apply it in the real world. 
   
 For example, if you are trying to understand what Coaxial cables or Ethernet cables look like; go to your main source of "networking gear" and take a look. 
 
