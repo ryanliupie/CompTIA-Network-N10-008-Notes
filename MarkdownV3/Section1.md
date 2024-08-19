@@ -14,4 +14,4 @@
 <img src="/Notes/page12.jpg" alt="Osi Model" width="800px">
 <img src="/Notes/page13.jpg" alt="Osi Model" width="800px">
 <img src="/Notes/page14.jpg" alt="Osi Model" width="800px">
-<img src="/Notes/page15.jpg" alt="Osi Model" width="800px">
+<img src="/Notes/page15.JPEG" alt="Osi Model" width="800px">
