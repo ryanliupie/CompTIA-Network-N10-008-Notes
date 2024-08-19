@@ -10,3 +10,4 @@
 ## IP addressing quiz  
 
 <p> Monday, August 19th: 47/50 --> 94.55%   </p>
+<img src ="/ExamRevs/Rev3.jpg" alt="Important"> 
