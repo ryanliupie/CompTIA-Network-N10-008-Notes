@@ -29,3 +29,10 @@
 <p> Tuesday, August 20th: 24/25 --> 96.43%   
 </p>
 <img src ="/ExamRevs/Rev5.jpg" alt="Important"> 
+
+<hr> 
+
+## Cloud Computing quiz
+<p> Tuesday, August 20th: 12/12 --> 100%   
+</p>
+<img src ="/ExamRevs/Rev6.jpg" alt="Important"> 
