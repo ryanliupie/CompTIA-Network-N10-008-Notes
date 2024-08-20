@@ -18,6 +18,6 @@
 
 ## TCP % UDP port quiz 
 
-<p> Tuesday, August 20th: 36/36 --> 1000%   
+<p> Tuesday, August 20th: 36/36 --> 100%   
 </p>
 <img src ="/ExamRevs/Rev3.jpg" alt="Important"> 
