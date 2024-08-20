@@ -20,4 +20,4 @@
 
 <p> Tuesday, August 20th: 36/36 --> 100%   
 </p>
-<img src ="/ExamRevs/Rev3.jpg" alt="Important"> 
+<img src ="/ExamRevs/Rev4.jpg" alt="Important"> 
