@@ -28,4 +28,4 @@
 
 <p> Tuesday, August 20th: 24/25 --> 96.43%   
 </p>
-<img src ="/ExamRevs/Rev4.jpg" alt="Important"> 
+<img src ="/ExamRevs/Rev5.jpg" alt="Important"> 
