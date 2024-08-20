@@ -24,7 +24,7 @@
 
 <hr> 
 
-## Network Services
+## Network Services quiz
 
 <p> Tuesday, August 20th: 24/25 --> 96.43%   
 </p>
