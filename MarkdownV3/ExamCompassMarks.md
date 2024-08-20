@@ -21,3 +21,11 @@
 <p> Tuesday, August 20th: 36/36 --> 100%   
 </p>
 <img src ="/ExamRevs/Rev4.jpg" alt="Important"> 
+
+<hr> 
+
+## Network Services
+
+<p> Tuesday, August 20th: 24/25 --> 96.43%   
+</p>
+<img src ="/ExamRevs/Rev4.jpg" alt="Important"> 
