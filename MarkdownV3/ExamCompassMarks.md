@@ -42,4 +42,4 @@
 ## Network Devices
 <p> Tuesday, August 20th: 20/23 --> 90.91%   
 </p>
-<img src ="/ExamRevs/Rev6.jpg" alt="Important"> 
+<img src ="/ExamRevs/Rev7.jpg" alt="Important"> 
