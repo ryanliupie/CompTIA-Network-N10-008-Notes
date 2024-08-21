@@ -36,3 +36,10 @@
 <p> Tuesday, August 20th: 12/12 --> 100%   
 </p>
 <img src ="/ExamRevs/Rev6.jpg" alt="Important"> 
+
+<hr> 
+
+## Network Devices
+<p> Tuesday, August 20th: 20/23 --> 90.91%   
+</p>
+<img src ="/ExamRevs/Rev6.jpg" alt="Important"> 
