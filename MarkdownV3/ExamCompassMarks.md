@@ -49,6 +49,7 @@
 ## Routing and Switching Quiz
 <p> Tuesday, August 22nd: 27/30 --> 91.67%   
 </p>
-<img src ="/ExamRevs/Rev7.jpg" alt="Important"> 
+<img src ="/ExamRevs/Rev8.jpg" alt="Important"> 
+<img src ="/ExamRevs/Rev9.jpg" alt="Important"> 
 
 
