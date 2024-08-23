@@ -43,3 +43,12 @@
 <p> Tuesday, August 20th: 20/23 --> 90.91%   
 </p>
 <img src ="/ExamRevs/Rev7.jpg" alt="Important"> 
+
+<hr> 
+
+## Routing and Switching Quiz
+<p> Tuesday, August 22nd: 27/30 --> 91.67%   
+</p>
+<img src ="/ExamRevs/Rev7.jpg" alt="Important"> 
+
+
