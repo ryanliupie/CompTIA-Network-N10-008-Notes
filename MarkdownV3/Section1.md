@@ -15,3 +15,11 @@
 <img src="/Notes/page13.jpg" alt="Osi Model" width="800px">
 <img src="/Notes/page14.jpg" alt="Osi Model" width="800px">
 <img src="/Notes/page15.JPEG" alt="Osi Model" width="800px">
+<img src="/Notes/page16.jpg" alt="Osi Model" width="800px">
+<img src="/Notes/page17.jpg" alt="Osi Model" width="800px">
+<img src="/Notes/page19.jpg" alt="Osi Model" width="800px">
+<img src="/Notes/page20.jpg" alt="Osi Model" width="800px">
+<img src="/Notes/page21.jpg" alt="Osi Model" width="800px">
+<img src="/Notes/page22.jpg" alt="Osi Model" width="800px">
+<img src="/Notes/page23.jpg" alt="Osi Model" width="800px">
+<img src="/Notes/page24.jpg" alt="Osi Model" width="800px">
