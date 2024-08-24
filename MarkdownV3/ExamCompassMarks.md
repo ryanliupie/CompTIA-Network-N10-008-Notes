@@ -52,4 +52,9 @@
 <img src ="/ExamRevs/Rev8.jpeg" alt="Important"> 
 <img src ="/ExamRevs/Rev9.jpg" alt="Important"> 
 
+## Wireless Networking Quiz
+<p> Saturday, August 24th: 29/35 --> 90.32%   
+</p>
+<img src ="/ExamRevs/Rev8.jpeg" alt="Important"> 
+<img src ="/ExamRevs/Rev9.jpg" alt="Important"> 
 
