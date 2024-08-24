@@ -46,6 +46,6 @@
 <img src="/Notes/page45.jpg" alt="Osi Model" width="800px">
 <img src="/Notes/page46.jpg" alt="Osi Model" width="800px">
 <img src="/Notes/page47.jpg" alt="Osi Model" width="800px">
-<img src="/Notes/page48.jpg" alt="Osi Model" width="800px">
+
 
 
