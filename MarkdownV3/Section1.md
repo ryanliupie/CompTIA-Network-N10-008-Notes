@@ -23,3 +23,29 @@
 <img src="/Notes/page22.jpg" alt="Osi Model" width="800px">
 <img src="/Notes/page23.jpg" alt="Osi Model" width="800px">
 <img src="/Notes/page24.jpg" alt="Osi Model" width="800px">
+<img src="/Notes/page25.jpg" alt="Osi Model" width="800px">
+<img src="/Notes/page26.jpg" alt="Osi Model" width="800px">
+<img src="/Notes/page27.jpg" alt="Osi Model" width="800px">
+<img src="/Notes/page28.jpg" alt="Osi Model" width="800px">
+<img src="/Notes/page29.jpg" alt="Osi Model" width="800px">
+<img src="/Notes/page30.jpg" alt="Osi Model" width="800px">
+<img src="/Notes/page31.jpg" alt="Osi Model" width="800px">
+<img src="/Notes/page32.jpg" alt="Osi Model" width="800px">
+<img src="/Notes/page33.jpg" alt="Osi Model" width="800px">
+<img src="/Notes/page34.jpg" alt="Osi Model" width="800px">
+<img src="/Notes/page35.jpg" alt="Osi Model" width="800px">
+<img src="/Notes/page36.jpg" alt="Osi Model" width="800px">
+<img src="/Notes/page37.jpg" alt="Osi Model" width="800px">
+<img src="/Notes/page38.jpg" alt="Osi Model" width="800px">
+<img src="/Notes/page39.jpg" alt="Osi Model" width="800px">
+<img src="/Notes/page40.jpg" alt="Osi Model" width="800px">
+<img src="/Notes/page41.jpg" alt="Osi Model" width="800px">
+<img src="/Notes/page42.jpg" alt="Osi Model" width="800px">
+<img src="/Notes/page43.jpg" alt="Osi Model" width="800px">
+<img src="/Notes/page44.jpg" alt="Osi Model" width="800px">
+<img src="/Notes/page45.jpg" alt="Osi Model" width="800px">
+<img src="/Notes/page46.jpg" alt="Osi Model" width="800px">
+<img src="/Notes/page47.jpg" alt="Osi Model" width="800px">
+<img src="/Notes/page48.jpg" alt="Osi Model" width="800px">
+
+
