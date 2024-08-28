@@ -10,6 +10,7 @@
   
 <p> I will not be displaying any paid material here as these instructors have worked extremely hard to put out amazing information where you and I can learn from. I highly suggest you to support these creators during your studies! 
 </p>
+
 <hr> 
 
 ## How To Study? 🎧☕
@@ -27,6 +28,7 @@ If you do not have that, try to relate it to something in real life. For instanc
 - <h3> <a href="MarkdownV3/Section4.md"> Section 4: Network Security </a> </h3>
 - <h3> <a href="MarkdownV3/Section5.md"> Section 5: Network Troubleshooting </a> </h3>
 <br>
+
 <hr> 
 
 ## Exam Compass Mark Tracker 
