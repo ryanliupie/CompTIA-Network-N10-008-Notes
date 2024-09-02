@@ -65,3 +65,8 @@
 </p>
 <img src ="/ExamRevs/Rev11.jpg" alt="Important"> 
 <img src ="/ExamRevs/Rev12.jpg" alt="Important"> 
+
+## Common Attack Types Quiz
+<p> Monday, September 2nd: 18/21 --> 85.71%   
+</p>
+<img src ="/ExamRevs/Rev10.jpg" alt="Important"> 
