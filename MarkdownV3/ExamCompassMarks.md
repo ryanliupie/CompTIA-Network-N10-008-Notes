@@ -58,6 +58,7 @@
 <img src ="/ExamRevs/Rev10.jpg" alt="Important"> 
 
 ## Common Security Concept Quiz
-<p> Monday, September 2nd: 17/29 --> 58.62%   
+<p> Monday, September 2nd: 17/29 --> 58.62%  
+    Second Attempt ----------------> 
 </p>
 <img src ="/ExamRevs/Rev11.jpg" alt="Important"> 
