@@ -1,1 +1,23 @@
-
+<img src ="/Notes/page81.jpg" alt="section-4-notes" width="800px">
+<img src ="/Notes/page82.jpg" alt="section-4-notes" width="800px">
+<img src ="/Notes/page83.jpg" alt="section-4-notes" width="800px">
+<img src ="/Notes/page84.jpg" alt="section-4-notes" width="800px">
+<img src ="/Notes/page85.jpg" alt="section-4-notes" width="800px">
+<img src ="/Notes/page86.jpg" alt="section-4-notes" width="800px">
+<img src ="/Notes/page87.jpg" alt="section-4-notes" width="800px">
+<img src ="/Notes/page88.jpg" alt="section-4-notes" width="800px">
+<img src ="/Notes/page89.jpg" alt="section-4-notes" width="800px">
+<img src ="/Notes/page90.jpg" alt="section-4-notes" width="800px">
+<img src ="/Notes/page91.jpg" alt="section-4-notes" width="800px">
+<img src ="/Notes/page92.jpg" alt="section-4-notes" width="800px">
+<img src ="/Notes/page93.jpg" alt="section-4-notes" width="800px">
+<img src ="/Notes/page94.jpg" alt="section-4-notes" width="800px">
+<img src ="/Notes/page95.jpg" alt="section-4-notes" width="800px">
+<img src ="/Notes/page96.jpg" alt="section-4-notes" width="800px">
+<img src ="/Notes/page97.jpg" alt="section-4-notes" width="800px">
+<img src ="/Notes/page98.jpg" alt="section-4-notes" width="800px">
+<img src ="/Notes/page99.jpg" alt="section-4-notes" width="800px">
+<img src ="/Notes/page100.jpg" alt="section-4-notes" width="800px">
+<img src ="/Notes/page101.jpg" alt="section-4-notes" width="800px">
+<img src ="/Notes/page102.jpg" alt="section-4-notes" width="800px">
+<img src ="/Notes/page103.jpg" alt="section-4-notes" width="800px">
