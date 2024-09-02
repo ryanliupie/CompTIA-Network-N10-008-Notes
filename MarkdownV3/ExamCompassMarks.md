@@ -70,3 +70,8 @@
 <p> Monday, September 2nd: 18/21 --> 85.71%   
 </p>
 <img src ="/ExamRevs/Rev13.jpg" alt="Important"> 
+
+## Network Hardening Quiz
+<p> Monday, September 2nd: 20/23 --> 86.96%   
+</p>
+<img src ="/ExamRevs/Rev13.jpg" alt="Important"> 
