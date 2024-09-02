@@ -60,4 +60,4 @@
 ## Common Security Concept Quiz
 <p> Monday, September 2nd: 17/29 --> 58.62%   
 </p>
-<img src ="/ExamRevs/Rev10.jpg" alt="Important"> 
+<img src ="/ExamRevs/Rev11.jpg" alt="Important"> 
