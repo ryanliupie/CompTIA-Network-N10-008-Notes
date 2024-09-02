@@ -10,7 +10,7 @@
 
 ## IP addressing quiz  
 
-<p> Monday, August 19th: 47/50 --> 94.00%   
+<p> Monday, August 19th: 47/50 --> 94%   
 </p>
 <img src ="/ExamRevs/Rev3.jpg" alt="Important"> 
 
@@ -26,7 +26,7 @@
 
 ## Network Services quiz
 
-<p> Tuesday, August 20th: 24/25 --> 96.00%   
+<p> Tuesday, August 20th: 24/25 --> 96%   
 </p>
 <img src ="/ExamRevs/Rev5.jpg" alt="Important"> 
 
@@ -47,7 +47,7 @@
 <hr> 
 
 ## Routing and Switching Quiz
-<p> Tuesday, August 22nd: 27/30 --> 90.00%   
+<p> Tuesday, August 22nd: 27/30 --> 90%   
 </p>
 <img src ="/ExamRevs/Rev8.jpeg" alt="Important"> 
 <img src ="/ExamRevs/Rev9.jpg" alt="Important"> 
