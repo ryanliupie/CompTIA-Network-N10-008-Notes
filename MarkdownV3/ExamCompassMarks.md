@@ -10,7 +10,7 @@
 
 ## IP addressing quiz  
 
-<p> Monday, August 19th: 47/50 --> 94.55%   
+<p> Monday, August 19th: 47/50 --> 94.00%   
 </p>
 <img src ="/ExamRevs/Rev3.jpg" alt="Important"> 
 
@@ -26,7 +26,7 @@
 
 ## Network Services quiz
 
-<p> Tuesday, August 20th: 24/25 --> 96.43%   
+<p> Tuesday, August 20th: 24/25 --> 96.00%   
 </p>
 <img src ="/ExamRevs/Rev5.jpg" alt="Important"> 
 
@@ -40,20 +40,24 @@
 <hr> 
 
 ## Network Devices
-<p> Tuesday, August 20th: 20/23 --> 90.91%   
+<p> Tuesday, August 20th: 20/23 --> 86.96%   
 </p>
 <img src ="/ExamRevs/Rev7.jpg" alt="Important"> 
 
 <hr> 
 
 ## Routing and Switching Quiz
-<p> Tuesday, August 22nd: 27/30 --> 91.67%   
+<p> Tuesday, August 22nd: 27/30 --> 90.00%   
 </p>
 <img src ="/ExamRevs/Rev8.jpeg" alt="Important"> 
 <img src ="/ExamRevs/Rev9.jpg" alt="Important"> 
 
 ## Wireless Networking Quiz
-<p> Saturday, August 24th: 29/35 --> 90.32%   
+<p> Saturday, August 24th: 29/35 --> 82.86%   
 </p>
 <img src ="/ExamRevs/Rev10.jpg" alt="Important"> 
 
+## Common Security Concept Quiz
+<p> Monday, September 2nd: 17/29 --> 58.62%   
+</p>
+<img src ="/ExamRevs/Rev10.jpg" alt="Important"> 
