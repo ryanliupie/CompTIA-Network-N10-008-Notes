@@ -69,4 +69,4 @@
 ## Common Attack Types Quiz
 <p> Monday, September 2nd: 18/21 --> 85.71%   
 </p>
-<img src ="/ExamRevs/Rev10.jpg" alt="Important"> 
+<img src ="/ExamRevs/Rev13.jpg" alt="Important"> 
