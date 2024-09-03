@@ -75,3 +75,9 @@
 <p> Monday, September 2nd: 20/23 --> 86.96%   
 </p>
 <img src ="/ExamRevs/Rev13.jpg" alt="Important"> 
+
+## Troubleshooting Methodology Quiz
+<p> Monday, September 2nd: 13/13 --> 100%   
+</p>
+<img src ="/ExamRevs/Rev14.jpg" alt="Important"> 
+
