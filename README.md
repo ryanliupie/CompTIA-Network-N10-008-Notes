@@ -35,5 +35,11 @@ If you do not have that, try to relate it to something in real life. For instanc
 
 - <h3> <a href ="MarkdownV3/ExamCompassMarks.md"> Quizzes </a> </h3>
 
+<hr> 
+
+## How to Subnet?  
+
+- <h3> <a href ="MarkdownV3/Subnetting-Practice.md"> Subnetting </a> </h3>
+
 
 
