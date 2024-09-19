@@ -2,19 +2,23 @@
 <hr>
 
 ## Welcome
-<p> Hello, I am currently pursuing the CompTIA Network + exam and hope to take it soon. Down below you can click on each markdown to review the objectives ⇓ . Feel free to use them in your studies (if you can read my hand writing) and contact via email if you have any questions! 
+<p> 
+  Hello, I am currently pursuing the CompTIA Network + exam and hope to take it soon. Down below you can click on each markdown to review the objectives ⇓ . Feel free to use them in your studies (if you can read my hand writing) and contact via email if   you have any questions! 
 </p>
 
-<p> These notes derive from Professor Messer's Youtube Course, LLM (chatGPT), and Cisco's Networking basics with Packet Tracer. I also purchased Jason Dion's practice exams to further my studies with the additon of ExamCompass. Also, the amazing people of Reddit. 
+<p> 
+  These notes derive from <a href ="https://www.professormesser.com/network-plus/n10-008/n10-008-video/n10-008-training-course/"> Professor Messor </a> LLM (chatGPT), and <a href ="https://www.netacad.com/"> Cisco Skills For All </a>.  I also purchased      Jason Dion's practice exams to further my studies with the additon of ExamCompass. Also, the amazing people of Reddit. 
 </p>
   
-<p> I will not be displaying any paid material here as these instructors have worked extremely hard to put out amazing information where you and I can learn from. I highly suggest you to support these creators during your studies! 
+<p> 
+  I will not be displaying any paid material here as these instructors have worked extremely hard to put out amazing information where you and I can learn from. I highly suggest you to support these creators during your studies! 
 </p>
 
 <hr> 
 
 ## How To Study? 🎧☕
-<p> It's important that you do not just write everything down. Understand what you are writing and put it in your own words that you can understand. It sounds typical but it's the foundation for retaining information. For example, if you do not understand a certain top, check other resources that can explain the topic in a different way. After understanding the topic, apply it in the real world. 
+<p> 
+  It's important that you do not just write everything down. Understand what you are writing and put it in your own words that you can understand. It sounds typical but it's the foundation for retaining information. For example, if you do not understand    a certain top, check other resources that can explain the topic in a different way. After understanding the topic, apply it in the real world. 
   
 For example, if you are trying to understand what Coaxial cables or Ethernet cables look like; go to your main source of "networking gear" and take a look. 
 
@@ -40,6 +44,4 @@ If you do not have that, try to relate it to something in real life. For instanc
 ## How to Subnet?  
 
 - <h3> <a href ="MarkdownV3/Subnetting-Practice.md"> Subnetting </a> </h3>
-
-
 
