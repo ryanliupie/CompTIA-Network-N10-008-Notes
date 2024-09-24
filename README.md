@@ -3,11 +3,11 @@
 
 ## Welcome
 <p> 
-  Hello, I am currently pursuing the CompTIA Network + exam and hope to take it soon. Down below you can click on each markdown to review the objectives ⇓ . Feel free to use them in your studies (if you can read my hand writing) and contact via email if   you have any questions! 
+  Hello, I am currently pursuing the CompTIA Network + exam and hope to take it soon. Down below you can click on each markdown to review the objectives ⇓ . Feel free to use them in your studies (if you can read my hand writing) and contact via email if    you have any questions! 
 </p>
 
 <p> 
-  These notes derive from <a href ="https://www.professormesser.com/network-plus/n10-008/n10-008-video/n10-008-training-course/"> Professor Messor </a> LLM (chatGPT), and <a href ="https://www.netacad.com/"> Cisco Skills For All </a>.  I also purchased      Jason Dion's practice exams to further my studies with the additon of ExamCompass. Also, the amazing people of Reddit. 
+  These notes derive from <a href ="https://www.professormesser.com/network-plus/n10-008/n10-008-video/n10-008-training-course/"> Professor Messor </a> LLM (chatGPT), and <a href ="https://www.netacad.com/"> Cisco Skills For All </a>.  I also purchased     Jason Dion's practice exams to further my studies with the additon of ExamCompass. Lastly, one big factor was the CompTIA community on reddit helping each other with the material! 
 </p>
   
 <p> 
@@ -18,11 +18,13 @@
 
 ## How To Study? 🎧☕
 <p> 
-  It's important that you do not just write everything down. Understand what you are writing and put it in your own words that you can understand. It sounds typical but it's the foundation for retaining information. For example, if you do not understand    a certain top, check other resources that can explain the topic in a different way. After understanding the topic, apply it in the real world. 
+  It’s important not just to write everything down, but to really understand what you’re writing. Put the information in your own words, making sure you truly grasp the concept. This might sound typical, but it’s key to retaining knowledge.
   
-For example, if you are trying to understand what Coaxial cables or Ethernet cables look like; go to your main source of "networking gear" and take a look. 
+  If you don’t fully understand a topic, check out different resources that explain it from another perspective. Once you understand it, try applying the knowledge in real-world situations.
 
-If you do not have that, try to relate it to something in real life. For instance, I think of Bandwidth like a bowl. The bigger the bowl, the more data can be sent through. Throughput is the actual amount of data being sent and the milk (data) may not fill it up because of the cereal (network congestion). 
+  For instance, if you're trying to learn about Coaxial or Ethernet cables, physically interact with your "networking gear" and observe them. If you don’t have access to the actual cables, either buy some or apply those concepts to familiar ideas. 
+  
+  For example, I think of bandwidth like a bowl: the bigger the bowl, the more data it can carry. Throughput, on the other hand, is the actual amount of data being transmitted, which may not fill the bowl (milk) completely due to network congestion (the    cereal) or there is a lack of data (milk) . 
 </p>
 
 ## Main Notes 
