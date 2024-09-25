@@ -5,7 +5,7 @@
 </p> 
 
 <p>
-  I recommend practicing repeatedly, as it will make subnetting much easier when it comes time for an exam or when you need to apply it in the workplace
+  I recommend practicing repeatedly, as it will make subnetting much easier when it comes time for an exam or when you need to apply it in the workplace. 
 </p>
 
 <hr>
