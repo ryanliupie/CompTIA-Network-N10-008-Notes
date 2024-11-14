@@ -3,7 +3,7 @@
 
 ## Welcome
 <p> 
-  Hello, I am currently pursuing the CompTIA Network + exam and hope to take it soon. Down below you can click on each markdown to review the objectives ⇓ . Feel free to use them in your studies (if you can read my hand writing) and contact via email if    you have any questions! 
+  Hello, I am currently pursuing the CompTIA Network+ exam and hope to take it soon. Down below you can click on each markdown to review the objectives ⇓ . Feel free to use them in your studies (if you can read my hand writing) and contact via email if    you have any questions! 
 </p>
 
 <p> 
