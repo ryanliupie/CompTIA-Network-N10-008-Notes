@@ -1,4 +1,4 @@
-# Network +  N10-008 Exam Notes 📖 ✔️ 
+# Network+ N10-008 Exam Notes 📖 ✔️ 
 <hr>
 
 ## Welcome
@@ -7,7 +7,7 @@
 </p>
 
 <p> 
-  These notes derive from <a href ="https://www.professormesser.com/network-plus/n10-008/n10-008-video/n10-008-training-course/"> Professor Messor </a> LLM (chatGPT), and <a href ="https://www.netacad.com/"> Cisco Skills For All </a>.  I also purchased     Jason Dion's practice exams to further my studies with the additon of ExamCompass. Lastly, one big factor was the CompTIA community on reddit helping each other with the material! 
+  These notes derive from <a href ="https://www.professormesser.com/network-plus/n10-008/n10-008-video/n10-008-training-course/"> Professor Messor </a>, LLM (chatGPT), and <a href ="https://www.netacad.com/"> Cisco Skills For All </a>.  I also purchased     Jason Dion's practice exams to further my studies with the additon of ExamCompass. Lastly, one big factor was the CompTIA community on reddit helping each other with the material! 
 </p>
   
 <p> 
