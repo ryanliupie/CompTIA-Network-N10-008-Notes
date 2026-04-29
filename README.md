@@ -25,7 +25,7 @@ Down below ↓ contain my notes regarding the information for the CompTIA Networ
 
 ## How to Subnet?  
 
-- <h3> <a href ="MarkdownV3/Subnetting-Practice.md"> Subnetting </a> </h3>
+- <h3> <a href ="/subnetting/subnetting.md"> Subnetting </a> </h3>
 <hr> 
 
 ## Passed on September 23rd, 2024 ✔️
