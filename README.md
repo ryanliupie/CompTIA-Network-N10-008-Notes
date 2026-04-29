@@ -2,14 +2,7 @@
 <hr>
 
 ## Welcome
-<p> Hello, I am currently pursuing the CompTIA Network + exam and hope to take it soon. Down below you can click on each markdown to review the objectives ⇓ . Feel free to use them in your studies (if you can read my hand writing) and contact via email if you have any questions! 
-</p>
-
-<p> These notes derive from Professor Messer's Youtube Course, LLM (chatGPT), and Cisco's Networking basics, and Packet Tracer. I also purchased Jason Dion's practice exams to further my studies with the additon of ExamCompass. Also, the amazing people of Reddit. 
-</p>
-  
-<p> I will not be displaying any paid material here as these instructors have worked extremely hard to put out amazing information where you and I can learn from. I highly suggest you to support these creators during your studies! 
-</p>
+Down below ↓ contain my notes regarding the information for the CompTIA Network+ N10-008. Feel free to use either the written notes or the notes in markdown (will write all soon).
 <hr> 
 
 ## How To Study? 🎧☕
@@ -21,17 +14,14 @@ If you do not have that, try to relate it to something in real life. For instanc
 </p>
 
 ## Main Notes 
-- <h3> <a href="MarkdownV3/Section1.md"> Section 1: Network Fundamentals </a> </h3>
-- <h3> <a href="MarkdownV3/Section2.md"> Section 2: Network  Implementations </a> </h3>
-- <h3> <a href="MarkdownV3/Section3.md"> Section 3: Network Operations </a> </h3>
-- <h3> <a href="MarkdownV3/Section4.md"> Section 4: Network Security </a> </h3>
-- <h3> <a href="MarkdownV3/Section5.md"> Section 5: Network Troubleshooting </a> </h3>
+- <h3> <a href="/organized_written_domains/01_network_fundamentals.md"> Section 1: Network Fundamentals </a> </h3>
+- <h3> <a href="/organized_written_domains/02_network_implementations.md"> Section 2: Network  Implementations </a> </h3>
+- <h3> <a href="/organized_written_domains/03_network_operations.md"> Section 3: Network Operations </a> </h3>
+- <h3> <a href="/organized_written_domains/04_network_security.md"> Section 4: Network Security </a> </h3>
+- <h3> <a href="/organized_written_domains/05_network_troubleshooting.md"> Section 5: Network Troubleshooting </a> </h3>
 <br>
 <hr> 
 
-## Exam Compass Mark Tracker 
-
-- <h3> <a href ="MarkdownV3/ExamCompassMarks.md"> Quizzes </a> </h3>
 
 
 
